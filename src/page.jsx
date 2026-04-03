@@ -42,7 +42,7 @@ export default function OracleDigitalService() {
         <div className="nav-container">
           <div className="logo">
             <span className="logo-icon">O</span>
-            Oracle<span className="dot">.</span>
+            racle
           </div>
 
           <div className="nav-links desktop">
